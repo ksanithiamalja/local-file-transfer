@@ -1,8 +1,3 @@
-# local-file-transfer
-
-Here is a complete, production-grade `README.md` file tailored specifically to your repository structure and technology stack.
-
-Copy the markdown content below directly into your `README.md` file:
 
 ```markdown
 # 🚀 Offline Local File Transfer Tool
