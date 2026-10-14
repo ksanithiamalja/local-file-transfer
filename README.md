@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 Offline Local File Transfer Tool
 
 A lightweight, high-speed, and peer-to-peer (P2P) file-sharing desktop application built from scratch in **Python**. It allows users to discover devices on the same local Wi-Fi network automatically and transfer files directly without an internet connection or cloud storage.
